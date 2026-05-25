@@ -1,6 +1,7 @@
+<P align, "Center">
 ## This is Chakravarthy
 ## Hi there 👋
-<P align, "Center">
+
 <!--
 **chakravarthymj/chakravarthymj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
